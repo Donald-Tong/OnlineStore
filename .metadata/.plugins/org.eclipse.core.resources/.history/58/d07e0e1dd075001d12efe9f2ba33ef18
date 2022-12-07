@@ -1,0 +1,9 @@
+package com.ms.cart;
+
+import org.springframework.context.annotation.Configuration;
+
+@Configuration
+public class CustomerCartConfig {
+
+	private RestTemplate template = new RestTemplate();
+}

@@ -1,0 +1,5 @@
+package com.ms.cart.dto;
+
+public class ProductDTO {
+
+}
